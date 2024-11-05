@@ -5,6 +5,11 @@
 
 - 📫 How to reach me **tehreemakhtar33@gmail.com**
 
+<h3 align="left">🎉 Hacktoberfest & Holopin Badges</h3>
+<p align="left">Proud participant of Hacktoberfest! Here are some of my achievements:</p>
+
+[![An image of @tehreemakhtar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tehreemakhtar)](https://holopin.io/@tehreemakhtar)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tehreemakhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tehreemakhtar" height="30" width="40" /></a>
